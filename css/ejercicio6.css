@@ -30,6 +30,17 @@ ul
 	border-style: solid;
 }
 
+#home
+
+{
+
+	background-color: #c6ff00;
+	text-align: center;
+	list-style-type: none;
+	border-width: 5px;
+	border-style: solid;
+}
+
 h3
 {
 	background-color: #e53935;
