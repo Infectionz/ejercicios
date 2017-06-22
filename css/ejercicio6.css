@@ -1,0 +1,45 @@
+header
+{
+	background: url(imagenes/blood2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+	/*border-width: 2px;
+	border-style: solid;
+	border-color: none;*/
+}
+
+ul
+{
+
+	background-color: #ede7f6;
+	text-align: center;
+	list-style-type: none;
+	border-width: 5px;
+	border-style: solid;
+}
+
+#Recomendaciones
+
+{
+
+	background-color: #c6ff00;
+	text-align: center;
+	list-style-type: none;
+	border-width: 5px;
+	border-style: solid;
+}
+
+h3
+{
+	background-color: #e53935;
+	border-width: 5px;
+	border-style: solid;
+}
+
+footer
+{
+	background-color: #fdd835;
+	border-width: 5px;
+	border-style: solid;
+}
