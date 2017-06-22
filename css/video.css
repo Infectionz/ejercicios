@@ -1,0 +1,12 @@
+body
+{
+	background: url(imagenes/walle.jpg);
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+
+h2
+{
+	color: #e65100;
+	border-width: 5px;
+}
